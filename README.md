@@ -1,2 +1,3 @@
-# whac_a_mole
-Whac a mole game developed with Unreal Engine 5.
+# Whac a mole
+
+Whac a mole videogame developed with Unreal Engine 5.
